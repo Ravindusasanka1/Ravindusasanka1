@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**Ravindusasanka1/Ravindusasanka1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here's a complete README template based on your background. I've filled in the sections to highlight your skills, current interests, and areas you’re exploring.
 
-Here are some ideas to get you started:
+Hi there 👋
+I'm Ravindu!
+A tech enthusiast and passionate developer skilled in Python, Java, and React, with a keen interest in creating efficient software. I’m also exploring the world of DevOps and working on strengthening my skills in both development and deployment!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+🔭 I’m currently working on: Enhancing my knowledge in software development and DevOps practices.
+🌱 I’m currently learning: JAVA and PYTHON.
+👯 I’m looking to collaborate on: Open-source projects related to DevOps or React applications.
+💬 Ask me about: Anything related to Python, Java, React, or DevOps.
+📫 How to reach me: [www.linkedin.com/in/ravindu-sasanka-756183321]
+⚡ Fun fact: I'm passionate about DevOps and software development and continuously learning new technologies.
+
