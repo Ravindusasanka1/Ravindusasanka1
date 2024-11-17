@@ -1,6 +1,3 @@
-
-Here's a complete README template based on your background. I've filled in the sections to highlight your skills, current interests, and areas you’re exploring.
-
 Hi there 👋
 I'm Ravindu!
 A tech enthusiast and passionate developer skilled in Python, Java, and React, with a keen interest in creating efficient software. I’m also exploring the world of DevOps and working on strengthening my skills in both development and deployment!
