@@ -1,7 +1,7 @@
 # 💫 About Me:
 🚀 About Me<br>🔭 I’m currently working on: Enhancing my knowledge in software development and DevOps practices.<br>🌱 I’m currently learning: JAVA and PYTHON.<br>👯 I’m looking to collaborate on: Open-source projects related to DevOps or React applications.<br>💬 Ask me about: Anything related to Python, Java, React, or DevOps.<br>📫 How to reach me: [www.linkedin.com/in/ravindu-sasanka-756183321]<br>⚡ Fun fact: I'm passionate about DevOps and software development and continuously learning new technologies.<br><br> 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/8drS5qB5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ravindu-sasanka-756183321) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/8drS5qB5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/ravindu-sasanke) 
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
